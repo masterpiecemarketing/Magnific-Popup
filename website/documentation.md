@@ -1160,6 +1160,7 @@ $('.some-button').magnificPopup({
 ### How to place gallery navigation arrows "inside" the image?
 
 See [example on CodePen](http://codepen.io/dimsemenov/pen/JGjHK).
+Updated [example on CodePen](http://codepen.io/anon/pen/NPYgwm) accounts for galleries with only one item.
 
 ### How to override some function without modifying the source files?
 
